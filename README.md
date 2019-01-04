@@ -14,16 +14,17 @@ This project used Warren Weckesser's contribution on Stack Overflow for spaced-r
 Multiple other papers were referred to implement this project. A list of all the papers is given below:
 
 The global k-means clustering algorithm
-[a link] https://www.sciencedirect.com/science/article/abs/pii/S0031320302000602
+https://www.sciencedirect.com/science/article/abs/pii/S0031320302000602
 
 The Estimating Optimal Number of Gaussian Mixtures
-Based on Incremental k-means for Speaker Identification[a link]https://pdfs.semanticscholar.org/ce12/8a4580dae6ea04db9ef58a7ba065b07f2c6e.pdf
+Based on Incremental k-means for Speaker Identification
+https://pdfs.semanticscholar.org/ce12/8a4580dae6ea04db9ef58a7ba065b07f2c6e.pdf
 
 Modified global k-means algorithm for minimum sum-of-squares clustering problems
-[a link] https://www.sciencedirect.com/science/article/abs/pii/S0031320308001362
+https://www.sciencedirect.com/science/article/abs/pii/S0031320308001362
 
 Fast modified global k-means algorithm for incremental cluster construction
-[a link] https://www.sciencedirect.com/science/article/abs/pii/S0031320310005029
+https://www.sciencedirect.com/science/article/abs/pii/S0031320310005029
 
 # Future Work
 Plan to use fast GMM with kd-tree to speeden incremental k-means algorithm.
