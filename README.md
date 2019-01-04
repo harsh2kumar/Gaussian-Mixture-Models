@@ -11,7 +11,7 @@ At each cobnvergent exectution of the EM-algorithm, we also calculate the mutual
 # References
 This project used Warren Weckesser's contribution on Stack Overflow for spaced-random generator(https://stackoverflow.com/questions/53565205/how-to-generate-random-numbers-with-each-random-number-having-a-difference-of-at).
 
-Multiple other papers were referred to implement this project. A list of all the papers is given below:
+Multiple papers were referred to implement this project. A list of all the papers is given below:
 
 The global k-means clustering algorithm
 https://www.sciencedirect.com/science/article/abs/pii/S0031320302000602
